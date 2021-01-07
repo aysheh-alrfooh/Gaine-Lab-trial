@@ -1,18 +1,18 @@
 ---
-title: Example Event
+title: Her Story With Aysheh Alrfooh
 
 event: 
 event_url: https://www.linkedin.com/events/herstorywithayshehalrfoohi6752686267898621952/
 
-location: Wowchemy HQ
+location: Zoom Event 
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: ---
+  city: -----
+  region:-----
+  postcode: -----
+  country: ------
 
-summary: An example event.
+summary: Her Story With Aysheh Alrfooh
 abstract: Another story of one of our inspiring females scientists in pharmacy
 
 Aysheh Alrfooh is a fourth-year graduate student (Ph.D. Candidate) and Research Assistant in Dr. Gaine's lab in the Department of Pharmaceutical Sciences and Experimental Therapeutics (PSET) at the University of Iowa. Aysheh works under the supervision of Dr. Marie Gaine after joining her lab in June 2020.
@@ -23,8 +23,8 @@ She is currently working on several projects that aim to identify an accessible 
 Meet Aysheh with a very special talk about her career o11 Jan. at 7 PM ( Cairo Time ) on Zoom application
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2021-01-11T11:00:00Z"
+date_end: "2021-01-11T12:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -50,14 +50,14 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides:
+#slides:
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
+#projects:
 ---
 
 Slides can be added in a few ways:
