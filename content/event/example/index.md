@@ -1,8 +1,8 @@
 ---
 title: Example Event
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: 
+event_url: https://www.linkedin.com/events/herstorywithayshehalrfoohi6752686267898621952/
 
 location: Wowchemy HQ
 address:
@@ -13,8 +13,14 @@ address:
   country: United States
 
 summary: An example event.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: Another story of one of our inspiring females scientists in pharmacy
 
+Aysheh Alrfooh is a fourth-year graduate student (Ph.D. Candidate) and Research Assistant in Dr. Gaine's lab in the Department of Pharmaceutical Sciences and Experimental Therapeutics (PSET) at the University of Iowa. Aysheh works under the supervision of Dr. Marie Gaine after joining her lab in June 2020.
+Aysheh's research in epigenetics focuses on identifying the methylation profile for mental health disorders. 
+
+She is currently working on several projects that aim to identify an accessible diagnostics and prognostics biomarker for mental health disorders (bipolar disorder, schizophrenia, and suicidal behavior) and to help to understand the biological mechanism that underlying these diseases.
+
+Meet Aysheh with a very special talk about her career o11 Jan. at 7 PM ( Cairo Time ) on Zoom application
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2030-06-01T13:00:00Z"
