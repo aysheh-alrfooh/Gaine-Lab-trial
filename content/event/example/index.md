@@ -36,9 +36,9 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://github.com/aysheh-alrfooh/Gaine-Lab/blob/main/assets/images/1609949878064.png)'
-  focal_point: Right
+#image:
+  #caption: 'Image credit: [**Unsplash**](https://github.com/aysheh-alrfooh/Gaine-Lab/blob/main/assets/images/1609949878064.png)'
+  #focal_point: Right
 
 url_code: ""
 url_pdf: ""
