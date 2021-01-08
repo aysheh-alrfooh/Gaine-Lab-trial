@@ -63,6 +63,17 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Graduate Students:
+Aysheh Alrfooh
+institution: University of Iowa College of Pharmacy
+Degree Name: Doctor of Philosophy - PhD 
+Field Of Study: Clinical Pharmaceutical Sciences
+Dates attended:2017
+expected graduation : 2022
+
+institution: University of Jordan
+Degree Name: Bachelor's degree Field Of StudyPharmacy Grade3.73
+Dates attended:  2010
+expected graduation: 2015
 ---
 
