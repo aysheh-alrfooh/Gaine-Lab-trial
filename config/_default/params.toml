@@ -235,7 +235,7 @@ plugins_js  = []
   # and choose a map provider below.
   #
   # To use Google Maps, set `engine` to 1 and enter your API key that can be obtained here:
-https://goo.gl/maps/cRQ2aC73WrgdDqqh9
+   #https://goo.gl/maps/cRQ2aC73WrgdDqqh9
   # To use OpenStreetMap tiles, set `engine` to 2.
   # To use OpenStreetMap on a high traffic site, set `engine` to 3 and enter your API key that can be obtained here:
   #   https://www.mapbox.com/studio/account/tokens
