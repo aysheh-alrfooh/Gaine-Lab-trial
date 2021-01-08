@@ -30,7 +30,7 @@ Summary:
 My aim was to determine the mechanism of the up-regulation of the erythropoietin receptor (EpoR) in acute lymphoblastic leukemia with the TEL-AML1 translocation. Specifically, I investigated DNA methylation, transcription factors and microRNAs in patient samples and cell lines with and without a chromosomal translocation.
   
 
-Degree Name:Bachelor of Science (B.Sc.) with Hons 
+Degree Name: Bachelor of Science (B.Sc.) with Hons 
 institution: Liverpool John Moores University
 Field Of Study: Forensic Science and Biological Anthropology
 year: 2008
