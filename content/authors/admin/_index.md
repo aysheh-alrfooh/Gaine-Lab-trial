@@ -6,32 +6,36 @@ title: Marie Gaine
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor, Department of Department of Pharmaceutical Sciences and Experimental Therapeutics / Division of Division of Pharmaceutics and Translational Therapeutics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Iowa 
+  url: "https://pharmacy.uiowa.edu/directory/person/marie-e-gaine"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include region-specific sequencing, mouse models for disease using CRISPR.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Genetics 
+- Epigenetics
+- Psychiatric Disorders
 
 education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+Degree Name: Doctor of Philosophy (Ph.D.) 
+Field Of Study : Molecular Biology
+institution: Queen's University Belfast
+year: 2012
+Summary:
+My aim was to determine the mechanism of the up-regulation of the erythropoietin receptor (EpoR) in acute lymphoblastic leukemia with the TEL-AML1 translocation. Specifically, I investigated DNA methylation, transcription factors and microRNAs in patient samples and cell lines with and without a chromosomal translocation.
+  
+
+Degree Name:Bachelor of Science (B.Sc.) with Hons 
+institution: Liverpool John Moores University
+Field Of Study: Forensic Science and Biological Anthropology
+year: 2008
+Summary: 
+My modules included genetics, cell biology, histology, DNA and microbial forensics including a research project on tissue degradation. I also followed an anthropology route with modules including human physiology, human variation and adaptability, and archaeology. I chose optional modules of forensic photography, law for forensic science and forensic computing.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +44,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'marie-gaine@uiowa.edu'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=iMVrk1AAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,6 +66,3 @@ user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
